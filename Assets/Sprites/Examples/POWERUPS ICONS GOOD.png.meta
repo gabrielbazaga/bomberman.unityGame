@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: 5552144880616b9429dabf3ace85df5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3012710815051088502
+    second: POWERUPS ICONS GOOD_0
+  - first:
+      213: 7619835975050494555
+    second: POWERUPS ICONS GOOD_1
+  - first:
+      213: 6822650424735071847
+    second: POWERUPS ICONS GOOD_2
+  - first:
+      213: -546130277495159356
+    second: POWERUPS ICONS GOOD_3
+  - first:
+      213: -287597356743972346
+    second: POWERUPS ICONS GOOD_4
+  - first:
+      213: 8765137871436206943
+    second: POWERUPS ICONS GOOD_5
+  - first:
+      213: 7570832861593424574
+    second: POWERUPS ICONS GOOD_6
+  - first:
+      213: 8649625795746708129
+    second: POWERUPS ICONS GOOD_7
+  - first:
+      213: 8253273133759785797
+    second: POWERUPS ICONS GOOD_8
+  - first:
+      213: -8388367653335631523
+    second: POWERUPS ICONS GOOD_9
+  - first:
+      213: -4868963455715730115
+    second: POWERUPS ICONS GOOD_10
+  - first:
+      213: 2936685517829105693
+    second: POWERUPS ICONS GOOD_11
+  - first:
+      213: -2136552544164037439
+    second: POWERUPS ICONS GOOD_12
+  - first:
+      213: -3271725582453876239
+    second: POWERUPS ICONS GOOD_13
+  - first:
+      213: 3849513826433441452
+    second: POWERUPS ICONS GOOD_14
+  - first:
+      213: 1206994714821482835
+    second: POWERUPS ICONS GOOD_15
+  - first:
+      213: 7260134523009806488
+    second: POWERUPS ICONS GOOD_16
+  - first:
+      213: 5770424393851083063
+    second: POWERUPS ICONS GOOD_17
+  - first:
+      213: -1161331499705638158
+    second: POWERUPS ICONS GOOD_18
+  - first:
+      213: -6335973170053719185
+    second: POWERUPS ICONS GOOD_19
+  - first:
+      213: -7836571490612873544
+    second: POWERUPS ICONS GOOD_20
+  - first:
+      213: -430963080237368941
+    second: POWERUPS ICONS GOOD_21
+  - first:
+      213: 8348552233150480256
+    second: POWERUPS ICONS GOOD_22
+  - first:
+      213: -7331634426574520804
+    second: POWERUPS ICONS GOOD_23
+  - first:
+      213: -6842736479924793033
+    second: POWERUPS ICONS GOOD_24
+  - first:
+      213: 2822724566079152018
+    second: POWERUPS ICONS GOOD_25
+  - first:
+      213: 6315417697129827793
+    second: POWERUPS ICONS GOOD_26
+  - first:
+      213: -6684013487832355001
+    second: POWERUPS ICONS GOOD_27
+  - first:
+      213: -5855132607823963188
+    second: POWERUPS ICONS GOOD_28
+  - first:
+      213: 2558538509957615215
+    second: POWERUPS ICONS GOOD_29
+  - first:
+      213: 1496690042979905795
+    second: POWERUPS ICONS GOOD_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8df6e9c973b036d0800000000000000
+      internalID: -3012710815051088502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5280ab92781fb960800000000000000
+      internalID: 7619835975050494555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e7001d96ceeae50800000000000000
+      internalID: 6822650424735071847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5c0d8f761cb68f0800000000000000
+      internalID: -546130277495159356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a2fe05abf320cf0800000000000000
+      internalID: -287597356743972346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f535742547604a970800000000000000
+      internalID: 8765137871436206943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb251292060011960800000000000000
+      internalID: 7570832861593424574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aab98365d4a90870800000000000000
+      internalID: 8649625795746708129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54be60cff24898270800000000000000
+      internalID: 8253273133759785797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d597d811018869b80800000000000000
+      internalID: -8388367653335631523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d94bda887fd6cb0800000000000000
+      internalID: -4868963455715730115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18ec335be331c820800000000000000
+      internalID: 2936685517829105693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc3521f7c07952e0800000000000000
+      internalID: -2136552544164037439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f95747caee7892d0800000000000000
+      internalID: -3271725582453876239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae1586fd683c6530800000000000000
+      internalID: 3849513826433441452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35955b65c4b10c010800000000000000
+      internalID: 1206994714821482835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890bc8102ed21c460800000000000000
+      internalID: 7260134523009806488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7391eb6c96aa41050800000000000000
+      internalID: 5770424393851083063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2e29d672f12efe0800000000000000
+      internalID: -1161331499705638158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bda84a8f91218a0800000000000000
+      internalID: -6335973170053719185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_20
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6f01dcfb7ee3390800000000000000
+      internalID: -7836571490612873544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399b423ac59e40af0800000000000000
+      internalID: -430963080237368941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f7ab506040cd370800000000000000
+      internalID: 8348552233150480256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e300d655dc04a90800000000000000
+      internalID: -7331634426574520804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731d9760d67b901a0800000000000000
+      internalID: -6842736479924793033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f9ae399055c2720800000000000000
+      internalID: 2822724566079152018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd83ad5feed4a750800000000000000
+      internalID: 6315417697129827793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f25df652d9d33a0800000000000000
+      internalID: -6684013487832355001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_28
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb98dd3ae36ebea0800000000000000
+      internalID: -5855132607823963188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e4e261831c18320800000000000000
+      internalID: 2558538509957615215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POWERUPS ICONS GOOD_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3017eae0aaf45c410800000000000000
+      internalID: 1496690042979905795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

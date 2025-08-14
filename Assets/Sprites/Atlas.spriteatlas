@@ -1,0 +1,742 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+    - {fileID: 2800000, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 241475762513885874, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 6798365151204597563, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 1294056675684496354, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -931651681127696079, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -1021001900366140165, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 5309440131808387171, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -2789750253459786638, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -2024581017122091594, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 5249966501847620717, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 800777484686946345, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -4841700317805865163, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -301813834322255115, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -9081937126098163505, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -1294892688694331925, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -2761433554978487193, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 3981782570876313172, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -8962659285027958312, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 7395391296646508555, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 1658284420566468910, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -6102854134881779075, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -5178306695106781528, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -7303179696969911151, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 1861092777802778762, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -425387322310371920, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -3794097002540862341, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -3586919391586929708, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -8191015178956097238, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -4172158792318350348, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -7452297170329096744, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 3020916353448502233, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 5574355470073213902, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 1950852563876045697, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -5854634438731881282, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -4134235681875163547, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 8014464866368830996, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 7201622151025367418, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 7530329791407892047, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 780451566829508420, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 4125985511784378668, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 7112516678776946280, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 4494718097276019051, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -8942212212878583209, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 1637989267922566852, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -5666531625179381430, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -4145127664673407290, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 1263906657544137602, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -6703073126677597966, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 1005804865542596759, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -7460232601189364535, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 7273859343616598296, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 1466123515771627056, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 4032756301857661792, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -6641430111148717268, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 3634929209488345864, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 5185819368459930938, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 3909867326497289125, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 4818060608994563524, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -2967188332344327095, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -861154862181776249, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 8869469418940572912, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 1335322943622648852, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 1817422958265361373, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -5606649385403870798, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 6577207034550491742, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -677503387059518431, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -7908096475763380756, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 3171928974647195316, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 4295059796332299950, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -5507222713698450283, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -7108052941998894793, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 6739266674059907549, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 8205385237862705882, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 1095408012189552660, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -8522572563422679914, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -4007462294533074017, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -5142142065609082348, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -8841287785896415087, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -8624083426855910121, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 5007915708276727316, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -2719204072946316526, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -8187266056660498191, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 3100223343724739744, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 8695161488599642398, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -3810193544124851829, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 6020013813945119133, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -1019375588974538717, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -5653932760952091985, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 5199696806518566404, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -2481994755074292488, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -77534389757341115, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -4831824435397068207, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -7840159825190256585, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -4387103842117369603, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 4780808892334794349, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -2121517049504605715, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 4893930057457211917, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -6999135302781222721, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 2478839522774458495, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -1826670810833772921, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -6119477411059916082, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -1257056533823559090, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 1153822237557035290, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -6385402203011088000, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 4918139122030667422, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -4775650501550564103, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -8016637691665983015, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -4420295637389663600, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -1220884238174605444, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -7811081181084987127, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -5211726292940163249, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -6306830709290656578, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -9137407123838422204, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 9168925410175806564, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 5541209344651959810, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 636736722122109607, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 619017199633295692, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -8257503321723121566, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 6166840843414308390, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 5902532123663384905, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -9207423888819538327, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: -2165711946290096431, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 1899385416257082678, guid: e323fdf3ffa9f7b49b59cd8a416220ad, type: 3}
+  - {fileID: 3223051112337723457, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 3782035086526622151, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -4593409005438701622, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -3082002611295068842, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -7659524769191473934, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -2049652712930025442, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -2843635686301486246, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -5088930504671998741, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -1240429403204751135, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -1837672320130017541, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -8984624910385661357, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 6769936190570632236, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -3420642678891420258, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -4555329431859736427, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 8157441337091422717, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -3271256699822459179, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 1418020090228221519, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -6032047973963412974, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 2110671251779299987, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -3330320829061126371, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 1436115276866785509, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -2088196398149269422, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -2872519989515508860, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 6861545181812878700, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 7754801274512506308, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -2714972763439207758, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -2053342652819736847, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -3487849611570303466, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -7820688457320828357, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -7959095225836156517, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -9025748796846543033, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 7868507740144125258, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 3270231163535762246, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 7551499175599778013, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 2086399306213818051, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 3423769993056754656, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 4667808302595559355, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -3749706101072264535, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 5462451293928682732, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -6309871749168610477, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -5008368254653935721, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 754963524298107748, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 9163570326019843779, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -2034686001481526838, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 6301647285171549406, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 2361805023283601874, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 2383587943744942235, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -7365096136031673733, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 3138158653752800372, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -6201509474522302774, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -4217983892209748470, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -7442330977096265211, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -177310128660865419, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 9137146732803972596, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -4339918427005321033, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 5772591747850447837, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 28630264913042466, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -8958323381315177919, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -2242821716121881686, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -5123875172838995279, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -2249574591673148939, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -3191308768761195862, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 2238701065241513869, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 8832992396510014192, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 8699485449880159298, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 59094313068990914, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -7705690743869370745, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -2143247977293657152, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -8839719435743812984, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -22922702105416329, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 1523255506330352521, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -1742197856080238874, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -4067308439951245798, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 7769949983834917281, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -674220965995552787, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -9199028164662361103, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 3531847035555844441, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -8148042242250855667, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 5416666071135092080, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 5678546191530858381, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -508423215610299416, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -4625030317343401121, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -1419106620098826363, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -8373334594481334022, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 322538964289036616, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 8562007427384059506, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -8109510056218213129, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -2556814016937137382, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -7976209402722571464, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 3544789341814481393, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 2304082575111782958, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 5491551835145639212, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -2758489982267516135, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 1228550535542015342, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 1084008477454812760, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 8180343690812804835, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 1146088992655652631, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -8283945792117447097, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -3667755490472686726, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 173707154858143179, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -7702225981795677096, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -5545791486086701639, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 6437278432765412831, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 5504680687642940586, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 8655185754945792729, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 1464858392236308020, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -6948182552251496268, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 698274970194186908, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 795400161636245126, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 4719297869193845973, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -936636870046278615, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -3047113297566165931, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 8076205221570503531, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -5424210594469642325, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -1363418530778013774, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 2938598879349721691, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 4915027985412296713, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -6447225417694568858, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -1554773143411843276, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 722137889125625596, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 6873487300129790421, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -7395096690886225744, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -3941171157670181095, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 6829482550231187752, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -5737459402304956445, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 7414956238275963026, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -1239908578023651857, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 7012986490786483915, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -7379864467695539163, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 8792943384351487727, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -3768721626122148144, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 7072934123333244922, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -6887613626502118461, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 64775405093183274, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 4298839881907986869, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -1394420892708426619, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -5636864220097308155, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -759689150411087166, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 2724081861785574309, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 2341143617365471688, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 4701328478741294277, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 1589634425679872907, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -4642713906857253285, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 8061239785974950613, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -8613430734512296357, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 2122717048985125980, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -661479050113226117, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -4354254868435787529, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -4057700541379697488, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 4431021305960662714, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 41779940975867305, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 5610540297695570523, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -7300798914986181808, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -4551438252987781391, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -6827094331808155864, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -364318741065353866, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 1008809907879578285, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -6719350280113655093, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -9049728972628838770, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 5277443489332870, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 981352234824655501, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 8067271191872343802, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 322174071163876135, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 2790759102733380814, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 5123731521604741205, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 4642374029577213454, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 4160354266472045811, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -5732317647706896521, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -2212025857562499159, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 540338546594755741, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 7905444602189964369, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -4153935656023790712, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -8108985546099941780, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 8986364671100218027, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 6832902695188363717, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -8803354203707095595, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 4088886569501013045, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -8073463863128290752, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -8115496917660637363, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 3005068431794959466, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -2303155931224085590, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -8367257526192245609, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -3970192804016938431, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -896839683862241684, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -5857120159488364264, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 2422074056939331306, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 8331758996693333410, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -4624325386416657171, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 5930219813453805184, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 6424265162989119978, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 6759049009563290436, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 3802061927347538108, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -6928241917695972216, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -4238348373884410731, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 4333372868107038654, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -5415906050068559362, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 6244849634856370713, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -1020502179643585941, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -938166880565540446, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -2388496025027984976, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 6274409965018026036, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 1232323364275321603, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 5536474573438545718, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -7725549509986455181, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 5462459823870733438, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -4592553663753822764, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 6812176310941695416, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 2845052534138405852, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -5788443855509671248, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -5448752916623457074, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -6667440438842268278, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -6624656355108863329, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -8110179822253194539, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 323028299305593562, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 7529426966040340595, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 835519620119843380, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: -7433073634055891074, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 493789137646668475, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 629362159336209848, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 4911648369282431204, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  - {fileID: 7441531041285832280, guid: 32faa23719e1fb34bbf78ebc390a2a6d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_9
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_8
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_3
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_2
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_1
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_0
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_7
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_74
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_6
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_75
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_5
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_76
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_4
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_77
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_67
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_38
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_70
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_66
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_39
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_71
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_65
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_72
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_64
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_73
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_63
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_62
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_58
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_61
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_59
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_60
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_30
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_78
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_31
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_79
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_49
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_32
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_52
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_48
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_33
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_53
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_34
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_50
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_35
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_69
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_51
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_45
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_36
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_68
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_56
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_44
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_37
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_57
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_47
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_54
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_46
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_55
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_41
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_40
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_43
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_42
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_120
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_121
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_108
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_109
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_119
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_102
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_118
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_103
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_100
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_101
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_115
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_106
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_114
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_107
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_117
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_104
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_116
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_105
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_111
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_110
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_113
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_112
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_96
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_97
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_94
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_95
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_89
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_92
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_88
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_93
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_90
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_91
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_29
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_28
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_81
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_80
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_83
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_23
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_98
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_82
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_22
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_18
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_99
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_85
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_21
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_19
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_84
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_20
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_16
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_87
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_27
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_17
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_86
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_26
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_14
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_25
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_15
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_24
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_12
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_13
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_10
+  - Mobile - Bomberman Touch The Legend of Mystic Bomb - Bomberman_11
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_160
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_161
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_162
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_102
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_163
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_103
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_164
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_100
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_165
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_101
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_115
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_166
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_106
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_114
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_167
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_107
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_117
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_168
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_104
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_116
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_169
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_105
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_111
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_110
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_113
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_108
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_112
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_188
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_109
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_189
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_119
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_118
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_182
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_183
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_180
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_139
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_181
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_138
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_186
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_137
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_30
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_187
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_136
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_31
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_184
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_135
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_32
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_185
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_220
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_134
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_33
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_23
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_133
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_34
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_22
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_132
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_35
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_21
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_45
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_131
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_36
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_20
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_16
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_44
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_130
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_37
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_27
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_17
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_47
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_38
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_26
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_14
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_46
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_39
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_25
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_15
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_41
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_24
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_12
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_40
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_13
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_43
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_10
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_42
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_29
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_11
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_28
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_49
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_48
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_18
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_98
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_19
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_99
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_96
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_97
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_94
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_95
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_92
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_93
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_90
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_91
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_173
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_172
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_171
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_170
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_146
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_177
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_147
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_176
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_144
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_175
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_145
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_159
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_174
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_142
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_158
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_143
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_140
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_179
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_141
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_178
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_128
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_151
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_129
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_199
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_150
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_198
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_153
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_148
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_152
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_124
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_149
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_155
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_125
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_195
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_154
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_126
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_194
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_157
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_127
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_197
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_156
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_120
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_196
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_81
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_121
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_52
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_191
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_80
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_216
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_122
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_53
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_190
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_83
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_217
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_123
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_50
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_193
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_82
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_214
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_51
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_192
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_85
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_215
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_209
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_56
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_84
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_212
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_208
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_57
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_87
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_213
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_54
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_86
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_210
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_55
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_89
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_211
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_88
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_58
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_59
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_201
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_3
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_200
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_2
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_203
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_1
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_78
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_218
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_202
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_0
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_79
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_219
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_205
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_7
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_204
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_6
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_207
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_5
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_74
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_206
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_4
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_75
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_69
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_76
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_68
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_77
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_67
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_9
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_70
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_66
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_8
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_71
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_65
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_72
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_64
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_73
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_63
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_62
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_61
+  - SNES - Super Bomberman - Battle Stage 01 Normal Zone_60
+  m_RenderDataMap: {}
+  m_Tag: Atlas
+  m_IsVariant: 0
